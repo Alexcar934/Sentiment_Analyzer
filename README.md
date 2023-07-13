@@ -15,7 +15,7 @@ A continuación, se detallan los pasos seguidos para llevar a cabo este proyecto
 3. Entrenamiento de modelos de clasificación: Utilicé las prestaciones ofrecidas por la librería scikit-learn para entrenar varios modelos de clasificación.
 
 ## Conclusiones
-Como resultado de este proyecto, logré desarrollar un modelo que predice con un 94,74% de acierto si una reseña escrita es positiva (4 estrellas o más) o negativa (3 estrellas o menos). Estoy muy satisfecho con los resultados obtenidos y considero que este proyecto es un gran primer paso en el análisis de sentimientos.
+Como resultado de este proyecto, logré desarrollar un modelo que predice con un 94,74% de acierto si una reseña escrita es positiva o negativa. Estoy muy satisfecho con los resultados obtenidos, aunque tiene margen de mejora, y considero que este proyecto es un gran primer paso en el análisis de sentimientos.
 
 Espero que este proyecto sea de utilidad y pueda inspirar a otros a adentrarse en el apasionante mundo del NLP. ¡Gracias por visitar este repositorio!
 
